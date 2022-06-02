@@ -1,0 +1,3 @@
+In 411, I am looking forwards to learning more about the modular 
+'plug in/plug out' aspect of program design we spoke about, and intend
+to learn more about it by focusing my project on it. 
